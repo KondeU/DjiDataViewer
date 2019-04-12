@@ -1,0 +1,18 @@
+使用方法：
+双击运行Viewer.exe即可运行。
+
+提取方法说明：
+采用VisualStudio的dumpbin工具分析程序依赖、运行程序检查丢失的相关资源文件然后进行提取。
+
+声明：
+由于DJIAssistant2对Win10系统的支持不太友好，导致程序常发性不能正常运行，但由于本人需要经常查看分析飞行数据，故提取出DJIAssistant2中的DataViewer工具，用于查看飞行数据。提取出的文件为DataViewer所必须的所有文件，其他文件均没有提取进来，占用空间最小，且免安装。
+1.该程序为从DJIAssistant2程序集中提取出的DataViewer程序。
+2.该程序可以查看大疆系列飞行器及飞控的飞行数据信息（DAT文件，如FLY001.DAT）。
+3.该程序仅可用于教育研究，不可用于商用及其他目的。
+4.该程序为官方程序集中提取，本人未作任何更改，可对比文件哈希值进行校验，该程序的所有权限仍由大疆创新科技有限公司所保留。
+5.本人仅在个人github上（https://github.com/github.com/KondeU/DjiDataViewer）上传该程序，未在其他平台上发布类似程序。
+6.如有其他问题，可以在该项目github中开issue。
+特此声明
+
+2019/04/12, Deu.K
+www.github.com/github.com/KondeU/DjiDataViewer

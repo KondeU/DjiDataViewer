@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root count="7">
+<language value="English" MenuText="English" shortName="en_US"></language>
+<language value="Chinese" MenuText="简体中文" shortName="zh_CN" file="lang_zh.qm"></language>
+</root>
